@@ -1,0 +1,44 @@
+{
+  "solubility": {
+    "test_accuracy": 0.6777777777777778,
+    "chance_baseline": 0.5,
+    "n_classes": 2,
+    "n_test": 90
+  },
+  "binding_affinity_bucket": {
+    "test_accuracy": 0.8222222222222222,
+    "chance_baseline": 0.3333333333333333,
+    "n_classes": 3,
+    "n_test": 90
+  },
+  "stability_class": {
+    "test_accuracy": 0.5888888888888889,
+    "chance_baseline": 0.3333333333333333,
+    "n_classes": 3,
+    "n_test": 90
+  },
+  "toxicity_flag": {
+    "test_accuracy": 0.6777777777777778,
+    "chance_baseline": 0.5,
+    "n_classes": 2,
+    "n_test": 90
+  },
+  "subcellular_localization": {
+    "test_accuracy": 0.45555555555555555,
+    "chance_baseline": 0.25,
+    "n_classes": 4,
+    "n_test": 90
+  },
+  "expression_level_bucket": {
+    "test_accuracy": 0.5777777777777777,
+    "chance_baseline": 0.3333333333333333,
+    "n_classes": 3,
+    "n_test": 90
+  },
+  "mutation_sensitivity_flag": {
+    "test_accuracy": 0.7888888888888889,
+    "chance_baseline": 0.5,
+    "n_classes": 2,
+    "n_test": 90
+  }
+}
